@@ -3,6 +3,7 @@ required_autoproj_version: 1.7.4
 
 imports:
     - github: planthaber/package_set
+      branch: opencv
 
 version_control:
     - control/.*:

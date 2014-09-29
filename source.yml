@@ -2,7 +2,7 @@ name: rock
 required_autoproj_version: 1.7.4
 
 imports:
-    - github: rock-core/package_set
+    - github: planthaber/package_set
 
 version_control:
     - control/.*:
